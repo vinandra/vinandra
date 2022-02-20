@@ -1,5 +1,5 @@
 {
-	"name": "andra",
+	"name": "icrawl",
 	"version": "0.0.0",
 	"description": "",
 	"private": true,
@@ -16,7 +16,7 @@
 	"type": "module",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/vinandra/iAndra"
+		"url": "https://github.com/iCrawl/icrawl.git"
 	},
 	"bugs": {
 		"url": "https://github.com/iCrawl/icrawl/issues"
@@ -33,8 +33,8 @@
 		"eslint-config-prettier": "^8.3.0",
 		"eslint-plugin-svelte3": "^3.4.0",
 		"prettier": "^2.5.1",
-		"prettier-eslint": "^8.2.2",
-		"prettier-eslint-cli": "^4.2.1",
+		"prettier-eslint": "^13.0.0",
+		"prettier-eslint-cli": "^5.0.1",
 		"prettier-plugin-svelte": "^2.6.0",
 		"svelte": "^3.46.2",
 		"svelte-check": "^2.3.0",
@@ -44,9 +44,5 @@
 		"typescript": "^4.5.5",
 		"vite-plugin-windicss": "^1.6.3",
 		"windicss": "^3.4.3"
-	},
-	"dependencies": {
-		"package": "^1.0.1",
-		"svelte-kit": "^1.0.0"
 	}
 }
