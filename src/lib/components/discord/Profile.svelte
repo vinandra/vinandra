@@ -4,7 +4,7 @@
 	import DiscordAvatar from './Avatar.svelte';
 	import DiscordActivities from './Activities.svelte';
 
-	const data$ = lanyard('81440962496172032');
+	const data$ = lanyard('535247725562691626');
 </script>
 
 {#if $data$}
