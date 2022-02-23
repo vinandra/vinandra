@@ -10,7 +10,7 @@
 	<div class="min-w-72">
 		<Heading>
 			<h1 class="font-sans antialiased font-medium text-4xl text-center select-none my-4" slot="heading">
-				<span>Hey, I'm </span><span class="text-sky-500">Andra</span><span class="animate-blink">|</span>
+				<span>Hey, I'm </span><span class="text-sky-500">Yuundachi</span><span class="animate-blink">|</span>
 			</h1>
 		</Heading>
 		<DiscordProfile />
