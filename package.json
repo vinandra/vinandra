@@ -1,5 +1,5 @@
 {
-	"name": "icrawl",
+	"name": "vinandra",
 	"version": "0.0.0",
 	"description": "",
 	"private": true,
@@ -16,10 +16,10 @@
 	"type": "module",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/iCrawl/icrawl.git"
+		"url": "https://github.com/vinandra/vinandra.git"
 	},
 	"bugs": {
-		"url": "https://github.com/iCrawl/icrawl/issues"
+		"url": "https://github.com/vinandra/vinandra/issues"
 	},
 	"homepage": "",
 	"devDependencies": {
