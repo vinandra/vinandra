@@ -16,10 +16,10 @@
 	"type": "module",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/vinandra/vinandra.git"
+		"url": "https://github.com/shantuy/shantuy.git"
 	},
 	"bugs": {
-		"url": "https://github.com/vinandra/vinandra/issues"
+		"url": "https://github.com/shantuy/shantuy/issues"
 	},
 	"homepage": "",
 	"devDependencies": {
