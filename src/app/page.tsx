@@ -5,7 +5,7 @@ import {
   SiInstagram as Instagram,
 } from "@icons-pack/react-simple-icons";
 import { Send } from "lucide-react";
-// import { Lanyard } from "~/components/lanyard/Lanyard";
+import { Lanyard } from "../components/lanyard/Lanyard";
 
 export default async function Page() {
   return (
@@ -14,11 +14,11 @@ export default async function Page() {
         <main>
           <section>
             <h1 className="text-6xl font-bold leading-tight">
-              Hey, I'm <span className="text-sky-500">Andra</span>!
+              Hey, I&apos;m <span className="text-sky-500">Andra</span>!
             </h1>
             <h2 className="text-2xl font-light">Full Stack Developer </h2>
           </section>
-          {/* <Lanyard /> */}
+          <Lanyard />
         </main>
         <footer>
           <nav className="mt-12 flex gap-4">

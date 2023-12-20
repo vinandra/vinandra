@@ -3094,6 +3094,11 @@ uri-js@^4.2.2:
   dependencies:
     punycode "^2.1.0"
 
+use-lanyard@^1.5.2:
+  version "1.5.2"
+  resolved "https://registry.yarnpkg.com/use-lanyard/-/use-lanyard-1.5.2.tgz#e02a40b0703e30a098ce77c6d8f785119741f32d"
+  integrity sha512-clxZoUrzgvGa+9IAOv39e4yNjUEvmk/BjBbpIZ/0ymLmclypJkKJ86j5okEjBAACMkw+u1c4gf/zCifpOSwyDA==
+
 watchpack@2.4.0:
   version "2.4.0"
   resolved "https://registry.yarnpkg.com/watchpack/-/watchpack-2.4.0.tgz#fa33032374962c78113f93c7f2fb4c54c9862a5d"
